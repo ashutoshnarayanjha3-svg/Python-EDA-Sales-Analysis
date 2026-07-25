@@ -1,0 +1,19 @@
+Month,Region,Category,Sales,Profit,Profit Margin (%)
+Jan,North,Electronics,25000,5000,20.0
+Jan,South,Furniture,18000,3500,19.444444444444446
+Jan,East,Office Supplies,15000,2800,18.666666666666668
+Feb,North,Electronics,27000,6200,22.962962962962962
+Feb,West,Furniture,22000,4500,20.454545454545457
+Feb,South,Office Supplies,16000,2900,18.125
+Mar,East,Electronics,30000,7000,23.333333333333332
+Mar,North,Furniture,21000,3900,18.571428571428573
+Mar,West,Office Supplies,18000,3100,17.22222222222222
+Apr,South,Electronics,35000,9000,25.71428571428571
+Apr,East,Furniture,24000,4500,18.75
+Apr,North,Office Supplies,20000,3600,18.0
+May,West,Electronics,32000,8000,25.0
+May,South,Furniture,25000,4800,19.2
+May,East,Office Supplies,22000,4000,18.181818181818183
+Jun,North,Electronics,36000,9200,25.555555555555554
+Jun,West,Furniture,26000,5200,20.0
+Jun,South,Office Supplies,23000,4200,18.26086956521739

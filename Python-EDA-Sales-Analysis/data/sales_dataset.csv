@@ -1,0 +1,19 @@
+Month,Region,Category,Sales,Profit
+Jan,North,Electronics,25000,5000
+Jan,South,Furniture,18000,3500
+Jan,East,Office Supplies,15000,2800
+Feb,North,Electronics,27000,6200
+Feb,West,Furniture,22000,4500
+Feb,South,Office Supplies,16000,2900
+Mar,East,Electronics,30000,7000
+Mar,North,Furniture,21000,3900
+Mar,West,Office Supplies,18000,3100
+Apr,South,Electronics,35000,9000
+Apr,East,Furniture,24000,4500
+Apr,North,Office Supplies,20000,3600
+May,West,Electronics,32000,8000
+May,South,Furniture,25000,4800
+May,East,Office Supplies,22000,4000
+Jun,North,Electronics,36000,9200
+Jun,West,Furniture,26000,5200
+Jun,South,Office Supplies,23000,4200
